@@ -1,0 +1,28 @@
+ESTUDA+ — PROJETO ANDROID COMPLETO
+
+1. Extraia o ZIP inteiro para uma pasta do computador.
+2. No Android Studio, escolha Open.
+3. Abra a pasta EstudaMais que contém settings.gradle.kts.
+   Não abra apenas app e não copie estes arquivos por cima de outro projeto.
+4. Aguarde a sincronização do Gradle e os downloads iniciais.
+5. Se o Studio pedir o Android SDK 36, aceite a instalação.
+6. Selecione app na barra superior e escolha um emulador Android.
+7. Clique no botão verde Run (triângulo).
+8. O aplicativo inicia vazio. Cadastre suas próprias atividades.
+
+LEITURAS IMPORTANTES
+- README.md: instalação, funcionamento e organização do projeto.
+- docs/TESTES.md: checklist para conferir todas as funções.
+- docs/APRESENTACAO.md: roteiro de estudo e apresentação em trio.
+- docs/VERIFICACAO.md: o que foi efetivamente verificado na preparação.
+
+O projeto usa Compose + Material 3 + Navigation + Room + MVVM + Hilt.
+Ele funciona sem servidor e sem conta Firebase.
+Internet é necessária para baixar as dependências na primeira abertura.
+
+Cada colega pode abrir uma cópia deste projeto. Os dados são locais:
+o cadastro feito no seu emulador não aparece no emulador de outra pessoa.
+Fechar e reabrir mantém os dados. Desinstalar ou limpar dados os remove.
+
+Não atualize as versões das bibliotecas automaticamente antes de testar.
+Não há entrega assinada para a Play Store nem chaves de publicação.

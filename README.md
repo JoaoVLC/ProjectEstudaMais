@@ -137,6 +137,12 @@ Se alterarem os campos da Entity no futuro, criem uma migração e atualizem a v
 
 ## 9. Trabalho em equipe
 
+### Integrantes do grupo
+
+- João Vitor Lima Cecilio
+- David Rodrigues
+- Henrique Dias
+
 O ZIP pode ser enviado aos colegas. Cada um abre uma cópia e executa o checklist de `docs/TESTES.md`. Para juntar alterações, usem Git ou combinem qual pessoa editará cada arquivo; evitem três cópias divergentes sem controle.
 
 `docs/APRESENTACAO.md` contém uma divisão de estudo e um roteiro. Todos precisam executar, compreender e contribuir com testes, revisão ou implementação, descrevendo honestamente sua participação. Não basta decorar uma fala.
